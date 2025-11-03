@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "CSICE FII",
+        "dominio": "csice.fii.gob.ve",
+        "puerto": 443,
+        "jefe_servicios": "Jonathan Salas / Ramses Colmenares",
+        "desarrollador": "Angelo Rojas",
+        "email_alerta": "soporteotic.fii@gmail.com"
+    },
+    {
+        "nombre": "FII Principal",
+        "dominio": "www.fii.gob.ve",
+        "puerto": 443,
+        "jefe_servicios": "Kenmerry Navarro",
+        "desarrollador": "Stefano Stella",
+        "email_alerta": "soporteotic.fii@gmail.com"
+    },
+    {
+        "nombre": "Publicador FII",
+        "dominio": "publicador.fii.gob.ve",
+        "puerto": 443,
+        "jefe_servicios": "Jonathan Salas / Ramses Colmenares",
+        "desarrollador": "Victor Alvarez",
+        "email_alerta": "soporteotic.fii@gmail.com"
+    }
+]

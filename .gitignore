@@ -1,4 +1,2 @@
 # Entorno Virtual
 .venv/
-# Archivos de configuración y datos sensibles
-servicios.json
